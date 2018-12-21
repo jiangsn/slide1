@@ -15,7 +15,7 @@ var autoPlay =Play()
 function Play(){
     return setInterval(() => {
         goToSlide(current+1);
-    }, 1000);
+    }, 3000);
 }
 
 
