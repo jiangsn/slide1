@@ -1,0 +1,13 @@
+.window{
+    border:1px solid gold;
+    width: 400px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+
+.wrapper{
+    display: flex;
+    transition: all 0.5s;
+} 
+button:nth-child(1)
